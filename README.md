@@ -1,2 +1,5 @@
-# Zapto-Sales-Dashboard
-A responsive and interactive sales dashboard for Zepto, designed to track, visualize, and analyze sales data in real-time. Features include dynamic charts, KPIs, region-wise performance, product trends, and exportable reports. Built for efficient monitoring and strategic decision-making.
+
+
+📊 Zepto Sales Dashboard
+
+A sleek and powerful sales analytics dashboard for Zepto, built to monitor real-time sales data, visualize performance trends, and support strategic decision-making. This project aims to simplify sales tracking with a user-friendly interface and actionable insights.
